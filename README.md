@@ -6,7 +6,7 @@
 const me = {
   name: "psenak",
   role: "Junior Software Engineer",
-  company: "Wise",
+  company: "Wise"
 };
 ```
 
