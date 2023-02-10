@@ -7,7 +7,6 @@ const me = {
   name: "psenak",
   role: "Junior Software Engineer",
   company: "Wise",
-  languages: ["hu_HU", "en_US"],
 };
 ```
 
