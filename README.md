@@ -1,9 +1,18 @@
-## Hello there 👋
+## Hi, welcome! 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=psenak)
 
 ```
-My name is psenak and I am a full-stack developer.
+#!/usr/bin/javascript
+# -*- coding: utf-8 -*-
+
+
+const me = {
+  name: "psenak",
+  role: "Junior Software Engineer",
+  company: "Wise"
+  languages: ["hu_HU", "en_US"]
+}
 ```
 
 ## 🔧 Technologies & Tools
@@ -19,3 +28,10 @@ My name is psenak and I am a full-stack developer.
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+## 🌿 Currently learning
+
+- Amazon AWS
+- Docker
+- Kubernetes
+- Next.js
