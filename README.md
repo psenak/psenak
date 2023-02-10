@@ -2,17 +2,13 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=psenak)
 
-```
-#!/usr/bin/javascript
-# -*- coding: utf-8 -*-
-
-
+```javascript
 const me = {
   name: "psenak",
   role: "Junior Software Engineer",
-  company: "Wise"
-  languages: ["hu_HU", "en_US"]
-}
+  company: "Wise",
+  languages: ["hu_HU", "en_US"],
+};
 ```
 
 ## 🔧 Technologies & Tools
@@ -23,7 +19,6 @@ const me = {
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -31,7 +26,5 @@ const me = {
 
 ## 🌿 Currently learning
 
-- Amazon AWS
-- Docker
-- Kubernetes
-- Next.js
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![]((https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
