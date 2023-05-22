@@ -2,13 +2,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=psenak)
 
-```javascript
-const me = {
-  name: "psenak",
-  role: "Junior Software Engineer",
-  company: "Wise"
-};
-```
 
 ## 🔧 Technologies & Tools
 
